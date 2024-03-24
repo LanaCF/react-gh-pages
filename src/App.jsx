@@ -18,7 +18,7 @@ const App = () => {
         </div>
 
         <a href="#" className='logo'>
-          <img src="/img/logo.svg" alt="" />
+          <img src="./img/logo.svg" alt="" />
         </a>
 
         <button onClick={() => toggleModal('catalog')} className='btn-catalog'>
