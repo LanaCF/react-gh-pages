@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.c09b7160.css",
-    "main.js": "/react-gh-pages/static/js/main.6882b75b.js",
+    "main.js": "/react-gh-pages/static/js/main.fb14ffa5.js",
     "static/media/Roboto-Regular_400.eot": "/react-gh-pages/static/media/Roboto-Regular_400.c5a73f70ad7e19141f0a.eot",
     "static/media/Roboto-Regular_400.ttf": "/react-gh-pages/static/media/Roboto-Regular_400.cfe3602cde0ad1c9ae0e.ttf",
     "static/media/Roboto-Regular_400.woff": "/react-gh-pages/static/media/Roboto-Regular_400.6b0fdfcf61f93c0958db.woff",
     "static/media/Roboto-Regular_400.woff2": "/react-gh-pages/static/media/Roboto-Regular_400.fdfc325d19c52a6b4e03.woff2",
     "index.html": "/react-gh-pages/index.html",
     "main.c09b7160.css.map": "/react-gh-pages/static/css/main.c09b7160.css.map",
-    "main.6882b75b.js.map": "/react-gh-pages/static/js/main.6882b75b.js.map"
+    "main.fb14ffa5.js.map": "/react-gh-pages/static/js/main.fb14ffa5.js.map"
   },
   "entrypoints": [
     "static/css/main.c09b7160.css",
-    "static/js/main.6882b75b.js"
+    "static/js/main.fb14ffa5.js"
   ]
 }
