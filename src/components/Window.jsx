@@ -13,7 +13,7 @@ const Window = (props) => {
                     X
                 </button>
 
-                <img src="/img/img.avif" alt="" className="modal-window__catalog-img" />
+                <img src="./img/img.avif" alt="" className="modal-window__catalog-img" />
             </div>
         );
     } else if (type === 'basket') {
@@ -24,7 +24,7 @@ const Window = (props) => {
                 </button>
 
                 <div className="modal-window__basket-wrapper">
-                    <img src="/img/modal-cart.svg" alt="" className="modal-window__basket-img" />
+                    <img src="./img/modal-cart.svg" alt="" className="modal-window__basket-img" />
 
                     <p className="modal-window__basket-title">
                         Корзина
